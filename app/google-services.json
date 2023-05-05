@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468759644684",
+    "firebase_url": "https://socialmediagamer-bebe1.firebaseio.com",
+    "project_id": "socialmediagamer-bebe1",
+    "storage_bucket": "socialmediagamer-bebe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468759644684:android:4fb88f9eccf9df8ccfbc29",
+        "android_client_info": {
+          "package_name": "com.optic.socialmediagamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468759644684-p29m8q5gou7pkq91c67ijobv7e4jk4vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optic.socialmediagamer",
+            "certificate_hash": "4b173291c09334fdf4cc745d672e15f5552e6ded"
+          }
+        },
+        {
+          "client_id": "468759644684-acm5i60pb81lsu4qlcd8t5cu89jv4amt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxnU090LT6lB83zGdpB_D3FbSyLjGpq4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468759644684-acm5i60pb81lsu4qlcd8t5cu89jv4amt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
